@@ -12,9 +12,9 @@
 	
 - 🌱 I’m currently learning **Java, SpringBoot, MySQL**
 
-- 💬 Ask me about **Java, SpringBoot, MySQL, JavaScript, Stock Market, Football & Gaming**
+- 💬 Ask me about **Java, SpringBoot, MySQL, JavaScript, MMA & Gaming**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://7r-rishi.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio]()
  
 - 📫 How to reach me **vikashbhuyan2000@gmail.com**
 
@@ -42,16 +42,3 @@
 
 
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-	<!-- <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=7r-rishi&show_icons=true&locale=en&layout=compact" alt="7r-rishi" /</p>
-	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7r-rishi&show_icons=true&locale=en" alt="7r-rishi" /></p>
-	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7r-rishi&" alt="7r-rishi" /></p> -->
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7r-Rishi&layout=compact&theme=chartreuse-dark&hide_border=true)
- 
- ![GitHub Streak](https://streak-stats.demolab.com?user=7r-Rishi&theme=chartreuse-dark&hide_border=true)
- 
- ![Hrishikesh Sawant's GitHub stats](https://github-readme-stats.vercel.app/api?username=7r-Rishi&show_icons=true&theme=chartreuse-dark&hide_border=true) 
- 
-</div>
