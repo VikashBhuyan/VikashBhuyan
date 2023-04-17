@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hrishikesh Sawant</h1>
+<h1 align="center">Hi, I'm Vikash Bhuyan</h1>
 <h3 align="center">A Backend Developer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=7r-rishi&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi"/></p>
 <p align="left"><a href="https://twitter.com/" target="blank">
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://7r-rishi.github.io/)
  
-- 📫 How to reach me **7r.rushi@gmail.com**
+- 📫 How to reach me **vikashbhuyan2000@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wz6bN2CojWyl_L1hQ7ibPZjeMjEG46VD/view?usp=share_link)
 
