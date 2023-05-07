@@ -8,24 +8,18 @@
 </div>
 
 
-- 🔭 I’m currently perceiving **Full Stack Web Development Course At Masai School**
-	
-- 🌱 I’m currently learning **Java, SpringBoot, MySQL**
+## 🚀 About Me
 
-- 💬 Ask me about **Java, SpringBoot, MySQL, JavaScript, MMA & Gaming**
+I have a passion for building web applications that are both functional and visually appealing. I believe that great design and functionality go hand-in-hand, and I strive to create applications that are easy to use and understand.
 
-- 👨‍💻 All of my projects are available at - <a href="https://vikashbhuyan.github.io/">PortFolio</a>
- 
-- 📫 How to reach me **vikashbhuyan2000@gmail.com**
+As a Full Stack Developer, I have experience working on both the front-end and back-end of web applications. I'm comfortable working with HTML, CSS, and JavaScript to create responsive and dynamic user interfaces. On the back-end, I have experience working with Node.js and Express.js to build RESTful APIs and server-side applications. I also have experience working with MongoDB as a NoSQL database.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e6m0svWwur-BFKexneTrXsZxZYgM6ix0/view?usp=sharing)
+- ✳️: I'm currently learning Node, express, mongoDB
+- 👨‍🦱: Want to know more about me <a href="https://vikashbhuyan.github.io/">PortFolio</a>
+- 💬:Ask me about: <b>Backend</b>,<b>Node</b>,<b>RestAPI</b>,<b>Frontend</b>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-bhuyan-4458a5222/)   [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](vikashbhuyan2000@gmail.com)
 
-- ⚡ Fun fact **Finding Peace is easy!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hrishikesh-sawant-7r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrishikesh-sawant-7r" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
