@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vikash Bhuyan</h1>
 <h3 align="center">A Backend Developer</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=7r-rishi&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=VikashBhuyan&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi"/></p>
 <p align="left"><a href="https://twitter.com/" target="blank">
 	
 <div align="center">
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, SpringBoot, MySQL, JavaScript, MMA & Gaming**
 
-- 👨‍💻 All of my projects are available at [Portfolio]()
+- 👨‍💻 All of my projects are available at - <a href="https://vikashbhuyan.github.io/">PortFolio</a>
  
 - 📫 How to reach me **vikashbhuyan2000@gmail.com**
 
@@ -40,5 +40,19 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
+
+<h3>:fire:My Stats:</h3>
+
+<br/>
+<p align="center">
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=VikashBhuyan&theme=dark" /> <br \>
+   <br>
+   <br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VikashBhuyan&show_icons=true&theme=dark"/>
+   <br>
+   <br>
+  <br>
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=VikashBhuyan&theme=monokai&row=1&column=4">
+</p>
 
 
