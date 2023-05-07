@@ -18,7 +18,7 @@
  
 - 📫 How to reach me **vikashbhuyan2000@gmail.com**
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e6m0svWwur-BFKexneTrXsZxZYgM6ix0/view?usp=sharing)
 
 - ⚡ Fun fact **Finding Peace is easy!**
 
