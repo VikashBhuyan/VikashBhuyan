@@ -13,7 +13,7 @@
 Aspiring full-stack developer with specialization in Java Backend Development. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
 
 - ✳️: I'm currently learning Java, MySQL, SpringBoot
-- 👨‍🦱: Want to know more about me <a href="https://vikashbhuyan.github.io/">PortFolio</a>
+- 👨‍🦱: Want to know more about me [Portfolio](https://vikashbhuyan.github.io/).
 - 💬:Ask me about: <b>Backend</b>,<b>Core Java</b>,<b>Spring</b>,<b>Hibernate</b>
 - :mailbox:How to reach me: vikashbhuyan2000@gmail.com
 
